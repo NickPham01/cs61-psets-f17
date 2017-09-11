@@ -6,7 +6,6 @@
 #include <inttypes.h>
 #include <assert.h>
 
-
 int debug = 0;
 
 // Global to store stats data, initialize all values to 0
